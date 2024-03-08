@@ -1,0 +1,17 @@
+hardware parts list
+-------------------
+
+Raspberry Pi Zero 2 W and Mini HDMI to HDMI Adapter and Micro with Pre Soldered Header. (from waveshare)
+
+waveshare 2.13inch E-Ink Display HAT V4
+
+Pisugar3 Portable 1200 mAh UPS Lithium Battery Pwnagotchi Power Module
+-or-
+Pisugar2 Portable 1200 mAh UPS Lithium Battery Pwnagotchi Power Module
+
+add-ons
+-----------------
+
+HiLetgo VK172 G-Mouse USB GPS/GLONASS USB GPS Receiver
+2Pcs 90 Degree Left & Right Angled Micro USB 2.0 OTG Host Adapter, Female to Male Micro OTG Adapter with USB Electricity 
+Anker 3-Port USB 3.0 HUB with 10/100/1000 Gigabit Ethernet Converter
