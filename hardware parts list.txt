@@ -1,17 +1,27 @@
-hardware parts list
--------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hardware Parts List</title>
+</head>
+<body>
+    <h1>Hardware Parts List</h1>
+    <h2>Main Components</h2>
+    <ul>
+        <li>Raspberry Pi Zero 2 W and Mini HDMI to HDMI Adapter and Micro with Pre Soldered Header (from waveshare)</li>
+        <li>waveshare 2.13inch E-Ink Display HAT V4</li>
+        <li>Pisugar3 Portable 1200 mAh UPS Lithium Battery Pwnagotchi Power Module</li>
+        <!-- Uncomment one of the following lines depending on the choice -->
+        <!-- <li>Pisugar3 Portable 1200 mAh UPS Lithium Battery Pwnagotchi Power Module</li> -->
+        <!-- <li>Pisugar2 Portable 1200 mAh UPS Lithium Battery Pwnagotchi Power Module</li> -->
+    </ul>
 
-Raspberry Pi Zero 2 W and Mini HDMI to HDMI Adapter and Micro with Pre Soldered Header. (from waveshare)
-
-waveshare 2.13inch E-Ink Display HAT V4
-
-Pisugar3 Portable 1200 mAh UPS Lithium Battery Pwnagotchi Power Module
--or-
-Pisugar2 Portable 1200 mAh UPS Lithium Battery Pwnagotchi Power Module
-
-add-ons
------------------
-
-HiLetgo VK172 G-Mouse USB GPS/GLONASS USB GPS Receiver
-2Pcs 90 Degree Left & Right Angled Micro USB 2.0 OTG Host Adapter, Female to Male Micro OTG Adapter with USB Electricity 
-Anker 3-Port USB 3.0 HUB with 10/100/1000 Gigabit Ethernet Converter
+    <h2>Add-ons</h2>
+    <ul>
+        <li>HiLetgo VK172 G-Mouse USB GPS/GLONASS USB GPS Receiver</li>
+        <li>2Pcs 90 Degree Left & Right Angled Micro USB 2.0 OTG Host Adapter, Female to Male Micro OTG Adapter with USB Electricity</li>
+        <li>Anker 3-Port USB 3.0 HUB with 10/100/1000 Gigabit Ethernet Converter</li>
+    </ul>
+</body>
+</html>
