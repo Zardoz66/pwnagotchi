@@ -19,6 +19,7 @@ https://github.com/jayofelony/pwnagotchi
 
 Config.toml
 
+"
 main.name = "pwnagotchi"
 main.lang = "en"
 main.whitelist = [
@@ -34,3 +35,4 @@ ui.web.enabled = true
 ui.web.username = "admin"
 ui.web.password = "P@ssw0rd"
 main.plugins.memtemp.enabled = true
+"
